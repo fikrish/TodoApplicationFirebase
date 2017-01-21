@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "642148702599",
+    "firebase_url": "https://aplikasiku-daded.firebaseio.com",
+    "project_id": "aplikasiku-daded",
+    "storage_bucket": "aplikasiku-daded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642148702599:android:51d302665360379b",
+        "android_client_info": {
+          "package_name": "com.example.efespc.efesaplikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642148702599-p36dmlaocum5hhrbqp768umopn73lotj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDON5t8P5dLIznrLle4b9_zwj8BfFg3_VM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
